@@ -1,3 +1,14 @@
+# Application Notes
+
+Widget Service endpoint:
+
+https://kowzic8cn4.execute-api.us-east-1.amazonaws.com/prod/
+
+```
+curl -X GET 'https://kowzic8cn4.execute-api.us-east-1.amazonaws.com/prod/'
+```
+
+
 
 # Welcome to your CDK Python project!
 
